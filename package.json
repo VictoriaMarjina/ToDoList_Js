@@ -1,0 +1,28 @@
+{
+  "name": "todolist_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp",
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaMarjina/ToDoList_Js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictoriaMarjina/ToDoList_Js/issues"
+  },
+  "homepage": "https://github.com/VictoriaMarjina/ToDoList_Js#readme",
+  "devDependencies": {
+    "browser-sync": "2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-css": "^0.1.0",
+    "gulp-csso": "^4.0.1",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
